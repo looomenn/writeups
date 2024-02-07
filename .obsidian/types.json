@@ -6,6 +6,7 @@
     "Date": "date",
     "Solved?": "checkbox",
     "Challenge point:": "number",
-    "Challenge category:": "text"
+    "Challenge category:": "text",
+    "Points": "number"
   }
 }

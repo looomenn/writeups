@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "edbf34611b2dafa8",
+        "id": "6bc9f97755696fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "2ead2830588b9be2",
+            "id": "df872190bcff8908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dicectf_quals_2024/web/gpwaf.md",
+                "file": "vishwactf24h_2024/steg/Looking for Dushyanta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58db2c05ccaee8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dicectf_quals_2024/web/dicedicegoose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7db977b321b49480",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dicectf_quals_2024/web/gpwaf.md",
+                "file": "dicectf_quals_2024/web/dicedicegoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dicectf_quals_2024/web/gpwaf.md",
+                "file": "dicectf_quals_2024/web/dicedicegoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dicectf_quals_2024/web/gpwaf.md"
+                "file": "dicectf_quals_2024/web/dicedicegoose.md"
               }
             }
           },
@@ -160,19 +172,44 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "4b9dd6bd675e274b",
+  "active": "58db2c05ccaee8eb",
   "lastOpenFiles": [
+    "_assets/Pasted image 20240205104240.png",
+    "_assets/Pasted image 20240205103350.png",
+    "_assets/Pasted image 20240205102836.png",
+    "_assets/Pasted image 20240205102702.png",
+    "_assets/Pasted image 20240205102640.png",
+    "_assets/Pasted image 20240205102434.png",
+    "_assets/Pasted image 20240205102427 1.png",
+    "_assets/Pasted image 20240205102427.png",
+    "_assets/Pasted image 20240205101929.png",
+    "_assets/Pasted image 20240205101713.png",
+    "_assets/Pasted image 20240205101642.png",
+    "vishwactf24h_2024/steg/Looking for Dushyanta.md",
+    "vishwactf24h_2024/osint/Lost in game.md",
+    "vishwactf24h_2024/osint/Murder Mistery.md",
+    "vishwactf24h_2024/reverse/Baby ko base Pasand hai.md",
+    "vishwactf24h_2024/reverse/Stack Hack.md",
+    "vishwactf24h_2024/crypto/Unpredictable.md",
+    "vishwactf24h_2024/crypto/Primes.md",
     "dicectf_quals_2024/web/dicedicegoose.md",
-    "dicectf_quals_2024/web/gpwaf.md",
-    "_assets/Pasted image 20240203160210.png",
-    "_assets/Pasted image 20240203160635.png",
-    "_assets/Pasted image 20240203160345.png",
-    "_assets/Pasted image 20240203160212.png",
     "_templates/{{Heading}}.md",
+    "vishwactf24h_2024/steg/Area96.md",
+    "vishwactf24h_2024/crypto/Chef's encoding.md",
+    "vishwactf24h_2024/osint/Security Analyst's Journey ?.md",
+    "vishwactf24h_2024/steg/Cartesian Astronomy.md",
+    "vishwactf24h_2024/web/First App.md",
+    "vishwactf24h_2024/web",
+    "vishwactf24h_2024/osint/Peaky Blinders.md",
+    "vishwactf24h_2024/steg",
+    "vishwactf24h_2024/crypto",
+    "vishwactf24h_2024/osint",
+    "vishwactf24h_2024/reverse",
+    "vishwactf24h_2024",
+    "dicectf_quals_2024/web/gpwaf.md",
     "_assets",
     "_templates",
     "dicectf_quals_2024/web/Без назви",
-    "dicectf_quals_2024/web",
-    "dicectf_quals_2024"
+    "dicectf_quals_2024/web"
   ]
 }

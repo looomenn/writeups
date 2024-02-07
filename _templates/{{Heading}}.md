@@ -1,8 +1,7 @@
 ---
 CTF: 
-"Challenge name:": 
-"Challenge category:": 
-"Challenge point:": 
+Category: 
+Points: 
 Date: 
 Solved?:
 ---
@@ -18,6 +17,10 @@ ctf{fake_flag}
 
 ### Details
 
+Description
+```
+aaa
+```
 
 
 ---
