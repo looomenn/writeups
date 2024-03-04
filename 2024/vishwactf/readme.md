@@ -1,14 +1,20 @@
 # VishwaCTF
 
-> [!INFO] Overall stats 
-> Team: dead_davinci
-> CTF: VishwaCTF 2024
-> Dates: 01.03.2024 - 03.03.2024
-> Solved: 12
-> Points: 2819
-> Place: 129
-> First / Second / Third Bloods: 1 / 0 / 0
+Our writeups from VishwaCTF 2024
+## Stats
 
-Screen from platform:
+Team: dead_davinci <br>
+CTF: VishwaCTF 2024 <br>
+Dates: 01.03.2024 - 03.03.2024 <br>
+Solved: 12 <br>
+Points: 2819 <br>
+Place: 129 <br>
+First / Second / Third Bloods: 1 / 0 / 0 <br>
+
 ![](assets/vishwa-results.png)
 
+## Tasks
+
+Here you can find every task structured by category with link to it.
+
+<soon> 
