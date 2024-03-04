@@ -7,4 +7,4 @@ Place: 129
 First / Second / Third Bloods: 1 / 0 / 0
 
 
-![[2024/vishwactf/assets/vishwa-board.png]]
+![[2024/vishwactf/assets/results.png]]
