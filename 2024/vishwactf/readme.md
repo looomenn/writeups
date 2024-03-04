@@ -1,5 +1,6 @@
 # VishwaCTF
 
+> [!INFO] Overall stats 
 > Team: dead_davinci
 > CTF: VishwaCTF 2024
 > Dates: 01.03.2024 - 03.03.2024
@@ -8,5 +9,6 @@
 > Place: 129
 > First / Second / Third Bloods: 1 / 0 / 0
 
+Screen from platform:
 ![](assets/vishwa-results.png)
 
