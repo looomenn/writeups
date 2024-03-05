@@ -22,6 +22,13 @@ Here you can find every task structured by category with a link to it.
 - [Recipe Archival Workshop](web/raw/readme.md)
 - [Save The City](web/save-the-city/readme.md)
 - [Trip To Us](web/trip-to-us/readme.md)
-- [Promp Injection](https://ctftime.org/writeup/35786)
-	- *Stolen chall from Sekai CTF -\_-
-- 
+- [Prompt Injection](https://ctftime.org/writeup/35786) (*Stolen chall from Sekai CTF)
+- [They are coming](web/they-are-coming/readme.md)
+
+**Osint**
+- [Ifconfig inet](osint/ifconfig-inet/readme.md)
+
+**Steg**
+- [Old Case](steg/old-case/readme.md)
+
+
