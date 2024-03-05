@@ -46,21 +46,21 @@ From the same wiki page (as mentioned before) we can get the flight number for o
 grep -Ril 1971 *.log
 ```
 
-![[assets/img-2.png]]
+![](assets/img-2.png)
 
 So, our file is `Flight-305.log`
 
-![[assets/img-3.png]]
+![](assets/img-3.png)
 
 We already can see `Vishwa` in lines. Furthermore, ATT and HWR logs are all the same, so we can use the replace tool in vscode to clear the file
 
-![[assets/img-4.png]]
+![](assets/img-4.png)
 
-![[assets/img-5.png]]
+![](assets/img-5.png)
 
 And for the whitespaces:
 
-![[assets/img-6.png]]
+![](assets/img-6.png)
 
-![[assets/img-7.png]]
+![](assets/img-7.png)
 
