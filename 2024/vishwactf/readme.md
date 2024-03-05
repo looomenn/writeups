@@ -42,3 +42,6 @@ Here you can find every task structured by category with a link to it.
 **Digital Forensics**
 - [Repo Riddles](difor/repo-riddles/readme.md)
 
+**Crypto**
+- [Teyvat Tales](crypto/teyvat-tales/readme.md)
+
