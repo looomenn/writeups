@@ -34,6 +34,8 @@ Here you can find every task structured by category with a link to it.
 - [Secret Code](steg/secret-code/readme.md)
 - [We are valorant](steg/we-are-valorant/readme.md)
 
+**Misc**
+- [Heist](misc/heist/readme.md)
 
 
 
