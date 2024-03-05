@@ -6,7 +6,7 @@ Date: 2024-03-03
 Solved?: true
 ---
 ----
-[<- Home](../../readme.md)
+[<- Home](../../)
 ### TL;DR
 
 You need to collect flag by char from past commits  
