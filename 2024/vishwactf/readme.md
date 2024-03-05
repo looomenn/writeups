@@ -44,4 +44,5 @@ Here you can find every task structured by category with a link to it.
 
 **Crypto**
 - [Teyvat Tales](crypto/teyvat-tales/readme.md)
+- [Valentine's Day](crypto/valentines-day/readme.md)
 
