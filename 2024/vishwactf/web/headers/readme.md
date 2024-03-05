@@ -8,10 +8,9 @@ Solved?: true
 ----
 ### TL;DR
 
-UPD: My teammate solved this chall (failed myself cause of the incorrect date format lol) and I wanted to complete this WU, but half through the process, members in the discord pointed out that it was COMPLETELY stolen from CTF in 2023 -- https://github.com/daffainfo/ctf-writeup/tree/main/2023/WxMCTF%202023/WxMCTF%20Web%202%20-%20Restricted%20Access 
+UPD: My teammate solved this chall (failed myself cause of the incorrect date format lol) and I wanted to complete this WU, but half through the process, members in the discord pointed out that it was COMPLETELY stolen from the CTF in 2023 ([WxMCTF](https://github.com/daffainfo/ctf-writeup/tree/main/2023/WxMCTF%202023/WxMCTF%20Web%202%20-%20Restricted%20Access )) 
 
-So, I don't see any reason for completing it now.
-
+So, I don't see any reason for completing it now. The author did not even change the flag...
 
 **Flag**
 
