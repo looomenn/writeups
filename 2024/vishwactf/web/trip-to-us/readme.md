@@ -23,12 +23,14 @@ IIT kharakpur is organizing a US Industrial Visit. The cost of the registration 
 ```
 
 
-![](img-1.png)
+![](assets/img-1.png)
 
-![](img-2.png)
+Changing `User-Agent` to `IITIAN`
+![](assets/img-2.png) 
 
-![](img-3.png)
+After that, we get the login page. User login can be found in `alt` of the background image
+![](assets/img-3.png)
 
-And use basic sql injection for login bypass (username: admin, password: `' or '1'='1`)
+Fro the password, we can you basic `sql injection` for login bypass (username: admin, password: `' or '1'='1`)
 
 ![](assets/flag.png)
