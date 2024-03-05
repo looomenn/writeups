@@ -14,7 +14,6 @@ Solved?: true
 VishwaCTF{y0u_g0t_th3_7r1p_t0_u5}
 ```
 
-
 ### Details
 
 Description

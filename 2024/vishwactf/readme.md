@@ -17,4 +17,11 @@ Our writeups from VishwaCTF 2024
 
 Here you can find every task structured by category with a link to it.
 
-\<soon>
+**Web**
+- [Headers](web/headers/readme.md)
+- [Recipe Archival Workshop](web/raw/readme.md)
+- [Save The City](web/save-the-city/readme.md)
+- [Trip To Us](web/trip-to-us/readme.md)
+- [Promp Injection](https://ctftime.org/writeup/35786)
+	- *Stolen chall from Sekai CTF -\_-
+- 
