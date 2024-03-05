@@ -1,6 +1,6 @@
 # VishwaCTF
 
-[<- Main page](../../README.MD)
+[<- Main page](../../)
 
 Our writeups from VishwaCTF 2024
 ## Stats
@@ -39,4 +39,6 @@ Here you can find every task structured by category with a link to it.
 **Misc**
 - [Heist](misc/heist/readme.md)
 
+**Digital Forensics**
+- [Repo Riddles](difor/repo-riddles/readme.md)
 
