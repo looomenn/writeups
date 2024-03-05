@@ -1,5 +1,7 @@
 # VishwaCTF
 
+[<- Main page](../../README.MD)
+
 Our writeups from VishwaCTF 2024
 ## Stats
 
@@ -36,6 +38,5 @@ Here you can find every task structured by category with a link to it.
 
 **Misc**
 - [Heist](misc/heist/readme.md)
-
 
 
