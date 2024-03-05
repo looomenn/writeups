@@ -6,7 +6,7 @@ Date: 2024-02-03
 Solved?: true
 ---
 ----
-[<- Home](../../readme.md)
+[<- Home](../../)
 ### TL;DR
 
 Flag was hidden in the binary input(7 as byte length)
