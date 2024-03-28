@@ -18,3 +18,5 @@ Here you can find every task structured by category with a link to it.
 
 **OSINT**
 - [sherlock](osint/sherlock/readme.md)
+- [geolocation](osint/geolocation/readme.md)
+
