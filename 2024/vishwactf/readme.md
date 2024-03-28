@@ -30,7 +30,8 @@ Here you can find every task structured by category with a link to it.
 **Osint**
 - [Ifconfig inet](osint/ifconfig-inet/readme.md)
 - [Try Hack Me](osint/try-hack-me/readme.md)
-- The end is beginning (WIP)
+- [The end is beginning ](difor/the-end-is-beginning/readme.md)
+- [Prankster Twins](osint/twins/readme.md)
 
 **Steg**
 - [Old Case](steg/old-case/readme.md)
@@ -39,11 +40,11 @@ Here you can find every task structured by category with a link to it.
 
 **Misc**
 - [Hardware Heist](misc/heist/readme.md)
-- Who am I (WIP)
+- [Who am I](misc/who-am-i/readme.md)
 
 **Digital Forensics**
 - [Repo Riddles](difor/repo-riddles/readme.md)
-- Smoke out the Rat (WIP)
+- [Smoke out the Rat](difor/smoke-out-the-rat/readme.md)
 
 **Crypto**
 - [Teyvat Tales](crypto/teyvat-tales/readme.md)
