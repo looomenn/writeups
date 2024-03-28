@@ -2,7 +2,7 @@
 
 [<- Main page](../../)
 
-Our writeups from ...
+Our writeups from WolvCTF
 ## Stats
 
 **Team**: dead_davinci <br>
@@ -32,7 +32,7 @@ Here you can find every task structured by category with a link to it.
 - 
 
 **Digital Forensics**
-- 
+- [Eternally Pwned: Persistence](fore/eternally-pwned-presistence/readme.md)
 
 **Crypto**
 - 
