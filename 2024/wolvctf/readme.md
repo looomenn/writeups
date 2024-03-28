@@ -19,21 +19,6 @@ Board:
 
 Here you can find every task structured by category with a link to it.
 
-**Web**
-- 
-
-**Osint**
-- 
-
-**Steg**
-- 
-
-**Misc**
-- 
 
 **Digital Forensics**
 - [Eternally Pwned: Persistence](fore/eternally-pwned-presistence/readme.md)
-
-**Crypto**
-- 
-
