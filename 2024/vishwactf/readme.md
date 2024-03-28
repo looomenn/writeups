@@ -43,7 +43,7 @@ Here you can find every task structured by category with a link to it.
 
 **Digital Forensics**
 - [Repo Riddles](difor/repo-riddles/readme.md)
-- Smoke out the Rat (WIP)
+- [Smoke out the Rat](difor/smoke-out-the-rat/readme.md)
 
 **Crypto**
 - [Teyvat Tales](crypto/teyvat-tales/readme.md)
