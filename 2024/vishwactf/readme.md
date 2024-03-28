@@ -31,6 +31,7 @@ Here you can find every task structured by category with a link to it.
 - [Ifconfig inet](osint/ifconfig-inet/readme.md)
 - [Try Hack Me](osint/try-hack-me/readme.md)
 - [The end is beginning ](difor/the-end-is-beginning/readme.md)
+- [Prankster Twins](osint/twins/readme.md)
 
 **Steg**
 - [Old Case](steg/old-case/readme.md)
