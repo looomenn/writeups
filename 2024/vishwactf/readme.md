@@ -39,7 +39,7 @@ Here you can find every task structured by category with a link to it.
 
 **Misc**
 - [Hardware Heist](misc/heist/readme.md)
-- Who am I (WIP)
+- [Who am I](misc/who-am-i/readme.md)
 
 **Digital Forensics**
 - [Repo Riddles](difor/repo-riddles/readme.md)
