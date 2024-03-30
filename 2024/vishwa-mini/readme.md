@@ -5,15 +5,20 @@
 Our writeups from VishwaCTF 2024 Mini (24 hours)
 ## Stats
 
-**Team**: Solo <br>
-**CTF**: VishwaCTF'24 Mini (No dashboard) <br>
-**Dates**: 04.01.2024 - 05.01.2024 <br>
-**Solved**: <br>
-**Points**:  <br>
-**Place**:  <br>
-**First / Second / Third Bloods**: 0 / 0 / 0 <br>
-Board:
-<\no board:/>
+**Team**: Solo
+
+**CTF**: VishwaCTF'24 Mini (No ctftime page :/ ) 
+
+**Dates**: 04.01.2024 - 05.01.2024  
+
+**Solved**:
+
+**Points**:
+
+**Place**:  **First / Second / Third Bloods**: 0 / 0 / 0
+
+**Board:**
+< no board :/ >
 
 ## Tasks
 
