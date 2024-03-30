@@ -13,7 +13,7 @@ Our writeups from VishwaCTF 2024 Mini (24 hours)
 **Place**:  <br>
 **First / Second / Third Bloods**: 0 / 0 / 0 <br>
 Board:
-<\no bord :/>
+<\no board:/>
 
 ## Tasks
 
