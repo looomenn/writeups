@@ -29,6 +29,7 @@ From now on, every ctf wu will be organised like this:
 
 CTF | Year | Solo / Team ? | Ranking | WU |
 -- | -- | -- | -- | --
+VishwaCTF MIni | 2024 | Solo | ? / ? | [Capybara](2024/vishwa-mini/readme.md) |
 VishwaCTF | 2024 | Team | 129 / 1038 | [Capybara](2024/vishwactf/readme.md)|
 TexSaw | 2024 | Team | 363 / 410 | [Capybara](2024/texsaw/readme.md) |
 WolvCTF | 2024 | Team | 166 / 622 | [Capybara](2024/wolvctf/readme.md) |
