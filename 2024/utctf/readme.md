@@ -11,9 +11,11 @@
 
 **Solved**: 11
 
-**Points**: 4179
+**Points**: 4237
 
-**Place**:  **First / Second / Third Bloods**: 0 / 0 / 0
+**Place**:  137
+
+**First / Second / Third Bloods**: 0 / 0 / 0
 
 **Board:**
 ![](assets/Pasted%20image%2020240401113147.png)
