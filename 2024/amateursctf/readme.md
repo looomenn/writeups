@@ -28,14 +28,15 @@ Our writeups from AmateursCTF 2024
 ---
 ## Tasks
 
-**Web** (2/8)
+**Web** (3/8)
 - [Denied](web/denied/readme.md)
-- [One Shot](web/one-shot/readme.md)
-- [Agile Rut](web/agile-rut/readme.md)
+- [One Shot](web/one-shot/readme.md) (recreated)
+- [Agile Rut](web/agile-rut/readme.md) (recreated)
 
-**Osint** (2/3)
+**Osint** (3/3)
 - [Bathroom Break](osint/bathroom-break/readme.md)
 - [Cherry Blossoms](osint/cherry-blossoms/readme.md)
+- [Wumpus Leaks](osint/wumpus-leaks/readme.md) (recreated)
 
 **Misc** (2/7)
 - [Sanity Check](misc/sanity-check/readme.md)
@@ -46,7 +47,7 @@ Our writeups from AmateursCTF 2024
 
 **Crypto** (1/9)
 - [AESY](web/aesy/readme.md)
-- [Unsus-RSA](crypto/unsus-rsa/readme.md)
+- [Unsus-RSA](crypto/unsus-rsa/readme.md) (recreated)
 
 **Algo** (0/3)
 - < chall >
