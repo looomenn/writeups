@@ -18,14 +18,10 @@ amateursCTF{free_flag_and_please_follow_the_rules}
 ### Details
 
 Description
-> aaa
+> wow sanity check go join the discord.
 > 
-> 
-> 
-
-Files
-< nope :/ >
 
 Flag in da rules :>
-![](assets/Pasted%20image%2020240405175806.png)
+
+![](assets/Pasted%20image%2020240410180557.png)
 
