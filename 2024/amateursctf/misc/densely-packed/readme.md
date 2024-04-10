@@ -1,9 +1,9 @@
 ---
 CTF: AmateursCTF'24
 Category: misc
-Points: 
+Points: "256"
 Date: 2024-04-06
-Solved?:
+Solved?: true
 ---
 ----
 [<- Home](../../)
