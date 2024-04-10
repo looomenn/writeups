@@ -46,7 +46,7 @@ Our writeups from AmateursCTF 2024
 - < chall >
 
 **Crypto** (1/9)
-- [AESY](web/aesy/readme.md)
+- [AESY](crypto/aesy/readme.md)
 - [Unsus-RSA](crypto/unsus-rsa/readme.md) (recreated)
 
 **Algo** (0/3)
