@@ -13,7 +13,9 @@ Our writeups from
 **Place**: 242
 **First / Second / Third Bloods**: 0 / 0 / 0
 **Board:**
+
 ![](assets/Pasted%20image%2020240410153028.png)
+
 ![](assets/Pasted%20image%2020240410153038.png)
 
 ---
