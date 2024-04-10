@@ -1,9 +1,12 @@
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
 # Writeups
 
 Writeups for various CTFs...
 
 ![](https://www.icegif.com/wp-content/uploads/2023/05/icegif-794.gif)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/looomenn/writeups)
 
 ## Structure
 
