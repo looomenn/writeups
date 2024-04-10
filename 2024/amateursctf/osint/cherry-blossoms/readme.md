@@ -24,21 +24,22 @@ Description
 > Find the coords of this image!
 
 Files
-challenge.png
-main.py
-and ip for nc server 
+- challenge.png
+- main.py
+- ip for nc server 
 
 ![](source/challenge.png)
 
 
-By flags in the left corner of the image, we can pin point that is near the `Washington Monument` in DC
+By the flags in the left corner of the image, we can pinpoint that it is near the `Washington Monument` in DC
 
-Running around in the street view, we can find cherry bloom with specific branch pattern
+Running around using Google Street View, we can find the cherry blossom with a specific branch pattern
 
 ![](assets/geolocation.png)
+
 GEO: `~ 38.889107, -77.033531`
 
-After pasting these coordinates to the nc server we get the flag!
+And from the nc we get the flag 
 
 ```
 amateursCTF{l00k1ng_l0v3ly_1n_4k}
