@@ -20,12 +20,12 @@ brck{Ch33r_Up_BuddY_JU5t_3x3Cut3_4_D1reCT0ry}
 ### Details
 
 From Dockerfile we can find, that flag.txt path 
-![[Pasted image 20240224205604.png]]
+![[assets/Pasted image 20240224205604.png]]
 
 so, it's  `/usr/src/app/flag.txt`
 
 For restrictions, we can't use `...` and `/` 
-![[Pasted image 20240224210004.png]]
+![[assets/Pasted image 20240224210004.png]]
 It's a plain check, so we can bypass it via endocing folder path in base64
 
 `/usr/src/app/flag.txt` -> `L3Vzci9zcmMvYXBwL2ZsYWcudHh0`
@@ -43,7 +43,7 @@ and is equal to
 ```
 
 After running solve.py we got our flag
-![[Pasted image 20240224210414.png]]
+![[assets/Pasted image 20240224210414.png]]
 
 ---
 ### Appendix
