@@ -13,12 +13,12 @@
 
 **Points**: 1100
 
-**Place**: 
+**Place**: 166 / 622
 
 **First / Second / Third Bloods**: 0 / 0 / 0
 
 **Board:**
-
+< nope :/ >
 
 ---
 ## Tasks
