@@ -34,9 +34,10 @@ CTF | Year | Solo / Team ? | Ranking | WU |
 -- | -- | -- | -- | --
 BSidesSF | 2024 | Solo | 81 / 583 | [Capybara](/2024/bsidesfctf/) |
 cr3CTF | 2024 | Solo | 100/398 | [Capybara](2024/cr3ctf/) |
-AmateursCTF | 2024 | Solo | 242 / 1531 | [Capybara](2024/amateursctf/readme.md) | 
-UTCTF  | 2024 | Team | 137 / 854 | [Capybara](2024/utctf/readme.md) |
-TexSaw | 2024 | Team | 363 / 410 | [Capybara](2024/texsaw/readme.md) |
-WolvCTF | 2024 | Team | 166 / 622 | [Capybara](2024/wolvctf/readme.md) |
-VishwaCTF | 2024 | Team | 129 / 1038 | [Capybara](2024/vishwactf/readme.md) | 
+SpaceHeroes | 2024 | Solo |  180 / 614 |  [Capybara](2024/spaceheroes/) | 
+AmateursCTF | 2024 | Solo | 242 / 1531 | [Capybara](2024/amateursctf/) | 
+UTCTF  | 2024 | Team | 137 / 854 | [Capybara](2024/utctf/) |
+TexSaw | 2024 | Team | 363 / 410 | [Capybara](2024/texsaw/) |
+WolvCTF | 2024 | Team | 166 / 622 | [Capybara](2024/wolvctf/) |
+VishwaCTF | 2024 | Team | 129 / 1038 | [Capybara](2024/vishwactf/) | 
 BraekerCTF | 2024 | Team | ? / 508 |  [Capybara](2024/braeker-ctf/) | 
