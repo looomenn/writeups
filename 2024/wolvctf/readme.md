@@ -9,7 +9,7 @@
 
 **Dates**: 15.03.2024 - 17.03.2024
 
-**Solved**: 1
+**Solved**: 11
 
 **Points**: 1100
 
@@ -23,7 +23,7 @@
 ---
 ## Tasks
 
-**Web** (/?)
+**Web** (1/?)
 - [gaunlet](web/gaunlet)
 
 **Osint** (2/5)
