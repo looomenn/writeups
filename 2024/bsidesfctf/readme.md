@@ -26,19 +26,19 @@
 **Web** (4/14)
 - [Color-picker](web/color-picker/)
 - [Match One](web/match-one/)
-- [Match Two](/web/match-two/) (recreated)
-- [Web Tutorial 1](/web/web-tutorial-1)
+- [Match Two](web/match-two/) (recreated)
+- [Web Tutorial 1](web/web-tutorial-1)
 
 **Misc** (2/2)
-- [Crossworthy](/misc/crossworthy/)
-- [llflagprinter](/misc/llflagprinter/)
+- [Crossworthy](misc/crossworthy/)
+- [llflagprinter](misc/llflagprinter/)
 
 **Digital Forensics** (7/11)
 - [Doctor](fore/doctor/)
-- [Javai](/fore/javai/)
-- [redacted](/fore/redacted/)
-- [sgai](/fore/sgai/) (1, 3)
-- [undelete](/fore/undelete/)
-- [ztxt](/fore/ztxt/)
+- [Javai](fore/javai/)
+- [redacted](fore/redacted/)
+- [sgai](fore/sgai/) (1, 3)
+- [undelete](fore/undelete/)
+- [ztxt](fore/ztxt/)
 
 
