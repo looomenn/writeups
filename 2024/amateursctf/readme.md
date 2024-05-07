@@ -42,21 +42,9 @@ Our writeups from AmateursCTF 2024
 - [Sanity Check](misc/sanity-check/readme.md)
 - [Densely Packed](misc/densely-packed/readme.md)
 
-**PWN** (0/10)
-- < chall >
-
-**Crypto** (1/9)
+**Crypto** (2/9)
 - [AESY](crypto/aesy/readme.md)
 - [Unsus-RSA](crypto/unsus-rsa/readme.md) (recreated)
-
-**Algo** (0/3)
-- < chall >
-
-**Reverse** (0/9)
-- < chall >
-
-**Jail** (0/8)
-- < chall >
 
 
 
