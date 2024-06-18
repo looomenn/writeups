@@ -1,7 +1,7 @@
 ---
 CTF: Dice CTF 2024 Quals
 "Challenge name:": Dice Dice Goose
-"Challenge category:": We
+"Challenge category:": web
 "Challenge point:": 109
 Date: 2024-02-03
 Solved?: true
