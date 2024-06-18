@@ -42,4 +42,5 @@ TexSaw | 2024 | Team | 363 / 410 | [Capybara](2024/texsaw/) |
 WolvCTF | 2024 | Team | 166 / 622 | [Capybara](2024/wolvctf/) |
 VishwaCTF | 2024 | Team | 129 / 1038 | [Capybara](2024/vishwactf/) | 
 BraekerCTF | 2024 | Team | ? / 508 |  [Capybara](2024/braeker-ctf/) | 
+DiceCTF-Quals | 2024 | Solo | ? / ? |  [Capybara](2024/dicectf-quals/) | 
 VishwaMini | 2024 | Solo | - / - | [Capybara](2024/vishwa-mini/) | 
