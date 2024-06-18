@@ -27,7 +27,7 @@ Got jpeg file, via AperiSolve got next string
 sy+15+_d135_lo+_4e+_e1v35_0y
 ```
 
-![[assets/1.png]]
+![](assets/1.png)
 
 
 it is our flag encoded in some cypher. 
@@ -42,7 +42,7 @@ The KEY to scoring good in art history is to always know the name of your muse.
 
 For the cypher, it is a Vigenere's one (more complex Ceaser) and our muse is shankuntala =>
 
-![[assets/2.png]]
+![](assets/2.png)
 
 from where we can get next string
 ```

@@ -7,6 +7,8 @@ Date: 2024-01-04
 Solved?:
 ---
 ----
+
+[<- Home](../../)
 ### TL;DR
 
 A flag is an answer to a question found on an Instagram page: "What was the name of the pub in the series Peaky Blinders? "
@@ -44,22 +46,24 @@ Replace use _ instead of space
 
 This line `_red_right_hand_00` is a instagram profile
 
-![[assets/1.png]]
+![](assets/1.png)
 
 
 On every post, in the description, is parts of the link
-![[assets/2.png]]
+
+![](assets/2.png)
+
 
 Full link
 ```
 https://www.facebook.com/profile.php?id=61554610571803&mibextid=hIlR13
 ```
 
-![[assets/3.png]]
+![](assets/3.png)
 
 in feed there is another instagram account (RICK ROLL WARNING)
 
-![[assets/4.png]]
+![](assets/4.png)
 
 ```
 https://www.instagram.com/_t_m_s_00
@@ -67,7 +71,7 @@ https://www.instagram.com/_t_m_s_00
 
 and there is one picture that contains question
 
-![[assets/5.png]]
+![](assets/5.png)
 
 > What was the name of the pub in the series Peaky Blinders? 
 

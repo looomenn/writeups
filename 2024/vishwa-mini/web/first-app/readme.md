@@ -25,7 +25,7 @@ After struggling for 2 days finally made my first web page. Still wondering why 
 Got web app with input. Digging down to files, we can see that it refers to specific `.php` file:
 `fl4gf0rF1r5t4pp.php`
 
-![[assets/1.png]]
+![](assets/1.png)
 
 "Why did I use Linux to host this" - hint from the description
 
@@ -35,7 +35,7 @@ using batcat as input, cause cat isn't working:
 batcat fl4gf0rF1r5t4pp.php
 ```
 
+![](assets/2.png)
 
-![[assets/2.png]]
 
 

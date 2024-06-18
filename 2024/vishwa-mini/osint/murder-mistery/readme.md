@@ -7,6 +7,8 @@ Date: 2024-01-04
 Solved?:
 ---
 ----
+
+[<- Home](../../)
 ### TL;DR
 
 **Flag**
@@ -14,7 +16,6 @@ Solved?:
 ```
 VishwaCTF{evil_shadow}
 ```
-
 
 ### Details
 
@@ -26,7 +27,8 @@ ATTTFTADAFFTDTTAADTDTTATDAFDDDATATDDDDTADFAFADFATATFDFADDFFAFATDT
 
 https://postalpro.usps.com/ppro-tools/encoder-decoder
 
-![[assets/1.png]]
+![](assets/1.png)
+
 Combine all numbers in one strings
 
 ```
