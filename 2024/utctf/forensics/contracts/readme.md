@@ -3,7 +3,7 @@ CTF: UTCTF'24
 Category: difor
 Points: 100
 Date: 2024-03-30
-Solved?:
+Solved?: true
 ---
 ----
 [<- Home](../../)

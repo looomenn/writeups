@@ -13,7 +13,7 @@
 
 **Points**: 4237
 
-**Place**:  137
+**Place**:  137 / 854
 
 **First / Second / Third Bloods**: 0 / 0 / 0
 
@@ -25,18 +25,18 @@
 Here you can find every task structured by category with a link to it.
 
 
-**Crypto**
+**Crypto** (3/9)
 - [Anti Dcode](crypto/anti-dcode/readme.md)
 - [Numbers go brrr](crypto/numbers-go-brr/readme.md)
 - [RSA-256](crypto/rsa-256/readme.md)
 
-**Forensics**
+**Forensics** (4/7)
 - [Contracts](/forensics/contracts/readme.md)
 - [OSINT 1](forensics/osint1/readme.md)
 - [OSINT 2](forensics/osint2/readme.md)
 - [OSINT 3](forensics/osint3/readme.md)
 
-**Reverse**
+**Reverse** (1/6)
 - Fruit Deals (WIP)
 
 
