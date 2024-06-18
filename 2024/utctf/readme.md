@@ -36,8 +36,8 @@ Here you can find every task structured by category with a link to it.
 - [OSINT 2](forensics/osint2/readme.md)
 - [OSINT 3](forensics/osint3/readme.md)
 
-**Reverse** (1/6)
-- Fruit Deals (WIP)
+**Misc** (1/?)
+- [Survey](misc/survey/)
 
 
 
