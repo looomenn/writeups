@@ -32,6 +32,7 @@ From now on, every ctf wu will be organised like this:
 
 CTF | Year | Solo / Team ? | Ranking | WU |
 -- | -- | -- | -- | --
+UIUCTF | 2024 | Solo | 560 / 959 | [Capybara](/2024/uiuctf/) |
 vsCTF | 2024 | Solo | 427 / 964 | [Capybara](/2024/vsctf/) |
 BSidesSF | 2024 | Solo | 81 / 583 | [Capybara](/2024/bsidesfctf/) |
 cr3CTF | 2024 | Solo | 100/398 | [Capybara](2024/cr3ctf/) |
