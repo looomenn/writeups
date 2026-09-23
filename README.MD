@@ -30,7 +30,8 @@ From now on, every ctf wu will be organised like this:
 
 ## CTFs
 
-### 2025
+### 2026
+
 | CTF                                |      Rank |
 | ---------------------------------- | --------: |
 | [NNS CTF 2026](2026/nns-ctf-2026/) | 629 / 888 |
