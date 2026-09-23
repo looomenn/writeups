@@ -30,18 +30,23 @@ From now on, every ctf wu will be organised like this:
 
 ## CTFs
 
-CTF | Year | Solo / Team ? | Ranking | WU |
--- | -- | -- | -- | --
-UIUCTF | 2024 | Solo | 560 / 959 | [Capybara](/2024/uiuctf/) |
-vsCTF | 2024 | Solo | 427 / 964 | [Capybara](/2024/vsctf/) |
-BSidesSF | 2024 | Solo | 81 / 583 | [Capybara](/2024/bsidesfctf/) |
-cr3CTF | 2024 | Solo | 100/398 | [Capybara](2024/cr3ctf/) |
-SpaceHeroes | 2024 | Solo |  180 / 614 |  [Capybara](2024/spaceheroes/) | 
-AmateursCTF | 2024 | Solo | 242 / 1531 | [Capybara](2024/amateursctf/) | 
-UTCTF  | 2024 | Team | 137 / 854 | [Capybara](2024/utctf/) |
-TexSaw | 2024 | Team | 363 / 410 | [Capybara](2024/texsaw/) |
-WolvCTF | 2024 | Team | 166 / 622 | [Capybara](2024/wolvctf/) |
-VishwaCTF | 2024 | Team | 129 / 1038 | [Capybara](2024/vishwactf/) | 
-BraekerCTF | 2024 | Team | ? / 508 |  [Capybara](2024/braeker-ctf/) | 
-DiceCTF-Quals | 2024 | Solo | ? / ? |  [Capybara](2024/dicectf-quals/) | 
-VishwaMini | 2024 | Solo | - / - | [Capybara](2024/vishwa-mini/) | 
+<details open>
+<summary><b>2024</b></summary>
+
+| CTF | Solo / Team | Rank |
+| --- | --- | --- |
+| [UIUCTF](2024/uiuctf/) | Solo | 560 / 959 |
+| [vsCTF](2024/vsctf/) | Solo | 427 / 964 |
+| [BSidesSF](2024/bsidesfctf/) | Solo | 81 / 583 |
+| [cr3CTF](2024/cr3ctf/) | Solo | 100 / 398 |
+| [SpaceHeroes](2024/spaceheroes/) | Solo | 180 / 614 |
+| [AmateursCTF](2024/amateursctf/) | Solo | 242 / 1531 |
+| [UTCTF](2024/utctf/) | Team | 137 / 854 |
+| [TexSaw](2024/texsaw/) | Team | 363 / 410 |
+| [WolvCTF](2024/wolvctf/) | Team | 166 / 622 |
+| [VishwaCTF](2024/vishwactf/) | Team | 129 / 1038 |
+| [BraekerCTF](2024/braeker-ctf/) | Team | ? / 508 |
+| [DiceCTF-Quals](2024/dicectf-quals/) | Solo | ? / ? |
+| [VishwaMini](2024/vishwa-mini/) | Solo | - / - |
+
+</details>
