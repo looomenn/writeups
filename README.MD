@@ -30,23 +30,25 @@ From now on, every ctf wu will be organised like this:
 
 ## CTFs
 
-<details open>
-<summary><b>2024</b></summary>
+### 2025
+| CTF                                |      Rank |
+| ---------------------------------- | --------: |
+| [NNS CTF 2026](2026/nns-ctf-2026/) | 629 / 888 |
 
-| CTF | Solo / Team | Rank |
-| --- | --- | --- |
-| [UIUCTF](2024/uiuctf/) | Solo | 560 / 959 |
-| [vsCTF](2024/vsctf/) | Solo | 427 / 964 |
-| [BSidesSF](2024/bsidesfctf/) | Solo | 81 / 583 |
-| [cr3CTF](2024/cr3ctf/) | Solo | 100 / 398 |
-| [SpaceHeroes](2024/spaceheroes/) | Solo | 180 / 614 |
-| [AmateursCTF](2024/amateursctf/) | Solo | 242 / 1531 |
-| [UTCTF](2024/utctf/) | Team | 137 / 854 |
-| [TexSaw](2024/texsaw/) | Team | 363 / 410 |
-| [WolvCTF](2024/wolvctf/) | Team | 166 / 622 |
-| [VishwaCTF](2024/vishwactf/) | Team | 129 / 1038 |
-| [BraekerCTF](2024/braeker-ctf/) | Team | ? / 508 |
-| [DiceCTF-Quals](2024/dicectf-quals/) | Solo | ? / ? |
-| [VishwaMini](2024/vishwa-mini/) | Solo | - / - |
+### 2024
 
-</details>
+| CTF                                  |       Rank |
+| ------------------------------------ | ---------: |
+| [UIUCTF](2024/uiuctf/)               |  560 / 959 |
+| [vsCTF](2024/vsctf/)                 |  427 / 964 |
+| [BSidesSF](2024/bsidesfctf/)         |   81 / 583 |
+| [cr3CTF](2024/cr3ctf/)               |  100 / 398 |
+| [SpaceHeroes](2024/spaceheroes/)     |  180 / 614 |
+| [AmateursCTF](2024/amateursctf/)     | 242 / 1531 |
+| [UTCTF](2024/utctf/)                 |  137 / 854 |
+| [TexSaw](2024/texsaw/)               |  363 / 410 |
+| [WolvCTF](2024/wolvctf/)             |  166 / 622 |
+| [VishwaCTF](2024/vishwactf/)         | 129 / 1038 |
+| [BraekerCTF](2024/braeker-ctf/)      |    ? / 508 |
+| [DiceCTF Quals](2024/dicectf-quals/) |      ? / ? |
+| [VishwaMini](2024/vishwa-mini/)      |          — |
