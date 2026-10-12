@@ -34,6 +34,7 @@ From now on, every ctf wu will be organised like this:
 
 | CTF                                |      Rank |
 | ---------------------------------- | --------: |
+| [FortID 2026](2026/fortid-2026/)   | 294 / 832 |
 | [NNS CTF 2026](2026/nns-ctf-2026/) | 629 / 888 |
 
 ### 2024
