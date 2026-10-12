@@ -1,6 +1,6 @@
 # NNSC CTF 2026
 
-[← Back to main page](../../)
+[← Back to main page](/../../)
 
 **5-6 Sep 2026** · **dead_davinci** · [CTFtime](https://ctftime.org/event/3097)
 
