@@ -213,10 +213,14 @@ His first post contained a link
 ![460](assets/Pasted%20image%2020261010011129.png)
 cc: https://bsky.app/profile/hank-loves-brewing.bsky.social/post/3miini2p7hk2w
 
-pastebit.com/?8Ag?pB5
-After a few minutes of brute-forcing the missing characters, I got `pastebit.com/i8AgnpB5`
+```
+pastebin.com/?8Ag?pB5
+```
 
-That led to https://drive.google.com/file/d/1ZpfgVS0cFc-u24GIpNz-ulRra-UvfHVQ/view?usp=sharing
+After a few minutes of brute-forcing the missing characters, I got `pastebin.com/i8AgnpB5`
+
+That led to
+https://drive.google.com/file/d/1ZpfgVS0cFc-u24GIpNz-ulRra-UvfHVQ/view?usp=sharing
 
 ### Decrypting
 
